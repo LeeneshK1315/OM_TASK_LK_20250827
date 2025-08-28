@@ -1,0 +1,11 @@
+C:\project\backend\src\CountryExplorer.Domain\bin\Debug\net9.0\CountryExplorer.Domain.deps.json
+C:\project\backend\src\CountryExplorer.Domain\bin\Debug\net9.0\CountryExplorer.Domain.dll
+C:\project\backend\src\CountryExplorer.Domain\bin\Debug\net9.0\CountryExplorer.Domain.pdb
+C:\project\backend\src\CountryExplorer.Domain\obj\Debug\net9.0\CountryExplorer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\backend\src\CountryExplorer.Domain\obj\Debug\net9.0\CountryExplorer.Domain.AssemblyInfoInputs.cache
+C:\project\backend\src\CountryExplorer.Domain\obj\Debug\net9.0\CountryExplorer.Domain.AssemblyInfo.cs
+C:\project\backend\src\CountryExplorer.Domain\obj\Debug\net9.0\CountryExplorer.Domain.csproj.CoreCompileInputs.cache
+C:\project\backend\src\CountryExplorer.Domain\obj\Debug\net9.0\CountryExplorer.Domain.dll
+C:\project\backend\src\CountryExplorer.Domain\obj\Debug\net9.0\refint\CountryExplorer.Domain.dll
+C:\project\backend\src\CountryExplorer.Domain\obj\Debug\net9.0\CountryExplorer.Domain.pdb
+C:\project\backend\src\CountryExplorer.Domain\obj\Debug\net9.0\ref\CountryExplorer.Domain.dll

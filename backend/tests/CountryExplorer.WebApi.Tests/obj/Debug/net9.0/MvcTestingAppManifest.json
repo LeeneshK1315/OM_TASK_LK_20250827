@@ -1,0 +1,6 @@
+{
+  "CountryExplorer.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\project\\backend\\src\\CountryExplorer.Application",
+  "CountryExplorer.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\project\\backend\\src\\CountryExplorer.Domain",
+  "CountryExplorer.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\project\\backend\\src\\CountryExplorer.Infrastructure",
+  "CountryExplorer.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\project\\backend\\src\\CountryExplorer.WebApi"
+}

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CountryExplorer.Application/1.0.0": {
+        "dependencies": {
+          "CountryExplorer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CountryExplorer.Application.dll": {}
+        }
+      },
+      "CountryExplorer.Domain/1.0.0": {
+        "runtime": {
+          "CountryExplorer.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountryExplorer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CountryExplorer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

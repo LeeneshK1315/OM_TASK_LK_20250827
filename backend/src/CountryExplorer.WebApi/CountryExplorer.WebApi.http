@@ -1,0 +1,6 @@
+@CountryExplorer.WebApi_HostAddress = http://localhost:5207
+
+GET {{CountryExplorer.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

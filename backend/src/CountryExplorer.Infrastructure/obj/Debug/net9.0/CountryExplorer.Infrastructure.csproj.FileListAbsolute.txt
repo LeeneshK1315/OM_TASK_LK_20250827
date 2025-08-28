@@ -1,0 +1,17 @@
+C:\project\backend\src\CountryExplorer.Infrastructure\bin\Debug\net9.0\CountryExplorer.Infrastructure.deps.json
+C:\project\backend\src\CountryExplorer.Infrastructure\bin\Debug\net9.0\CountryExplorer.Infrastructure.dll
+C:\project\backend\src\CountryExplorer.Infrastructure\bin\Debug\net9.0\CountryExplorer.Infrastructure.pdb
+C:\project\backend\src\CountryExplorer.Infrastructure\bin\Debug\net9.0\CountryExplorer.Application.dll
+C:\project\backend\src\CountryExplorer.Infrastructure\bin\Debug\net9.0\CountryExplorer.Domain.dll
+C:\project\backend\src\CountryExplorer.Infrastructure\bin\Debug\net9.0\CountryExplorer.Application.pdb
+C:\project\backend\src\CountryExplorer.Infrastructure\bin\Debug\net9.0\CountryExplorer.Domain.pdb
+C:\project\backend\src\CountryExplorer.Infrastructure\obj\Debug\net9.0\CountryExplorer.Infrastructure.csproj.AssemblyReference.cache
+C:\project\backend\src\CountryExplorer.Infrastructure\obj\Debug\net9.0\CountryExplorer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\backend\src\CountryExplorer.Infrastructure\obj\Debug\net9.0\CountryExplorer.Infrastructure.AssemblyInfoInputs.cache
+C:\project\backend\src\CountryExplorer.Infrastructure\obj\Debug\net9.0\CountryExplorer.Infrastructure.AssemblyInfo.cs
+C:\project\backend\src\CountryExplorer.Infrastructure\obj\Debug\net9.0\CountryExplorer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\project\backend\src\CountryExplorer.Infrastructure\obj\Debug\net9.0\CountryE.99F1AADD.Up2Date
+C:\project\backend\src\CountryExplorer.Infrastructure\obj\Debug\net9.0\CountryExplorer.Infrastructure.dll
+C:\project\backend\src\CountryExplorer.Infrastructure\obj\Debug\net9.0\refint\CountryExplorer.Infrastructure.dll
+C:\project\backend\src\CountryExplorer.Infrastructure\obj\Debug\net9.0\CountryExplorer.Infrastructure.pdb
+C:\project\backend\src\CountryExplorer.Infrastructure\obj\Debug\net9.0\ref\CountryExplorer.Infrastructure.dll
