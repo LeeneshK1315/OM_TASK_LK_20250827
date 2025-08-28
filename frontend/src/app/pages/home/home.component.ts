@@ -19,8 +19,6 @@ export class HomeComponent implements OnInit {
   error = '';
   searchTerm = '';
 
-  encodeURIComponent = encodeURIComponent;
-
   ngOnInit() {
     this.flags.getAllFlags().subscribe({
       next: (rows) => {

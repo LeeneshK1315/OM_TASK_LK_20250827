@@ -21,7 +21,7 @@
     <a
       class="card"
       *ngFor="let c of filteredItems"
-      [routerLink]="['/country', encodeURIComponent(c.countryName)]"
+      [routerLink]="['/country', c.countryName]"
       [title]="'View details about ' + c.countryName"
     >
       <div class="flag-wrap">

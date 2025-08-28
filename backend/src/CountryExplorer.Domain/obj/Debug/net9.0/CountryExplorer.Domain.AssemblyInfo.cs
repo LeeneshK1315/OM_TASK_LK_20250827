@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountryExplorer.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+206e300ec79186ca0419995a1c9aa613156e767a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44c77aa92c761388680a2d99bd4b37c5e869fa74")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountryExplorer.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountryExplorer.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
