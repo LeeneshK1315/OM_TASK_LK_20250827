@@ -1,0 +1,31 @@
+<div class="detail-container">
+  <section *ngIf="loading" class="loading">
+    <div class="spinner"></div>
+    <span>Loading country details…</span>
+  </section>
+  <section *ngIf="error" class="loading error">
+    <p>{{ error }}</p>
+    <a class="button" routerLink="/">← Back</a>
+  </section>
+  <section *ngIf="!loading && !error && vm" class="detail-card">
+    <div class="flag-wrap">
+      <img [src]="vm.flagUrl" alt="vm.countryName + ' flag'" />
+    </div>
+    <div class="body">
+      <h2 class="card-title">{{ vm.countryName }}</h2>
+      <div class="info-row">
+        <span>Region:</span>
+        <span>{{ vm.regions || '—' }}</span>
+      </div>
+      <div class="info-row">
+        <span>Capital:</span>
+        <span>{{ vm.capital || '—' }}</span>
+      </div>
+      <div class="info-row">
+        <span>Population:</span>
+        <span>{{ vm.population | number }}</span>
+      </div>
+      <a class="button" routerLink="/">← Back</a>
+    </div>
+  </section>
+</div>

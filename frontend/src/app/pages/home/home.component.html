@@ -1,0 +1,40 @@
+<div class="container">
+  <header class="header">
+    <h1>Countries List</h1>
+    <input
+      type="text"
+      [(ngModel)]="searchTerm"
+      placeholder="Search countries..."
+      class="search-box"
+    />
+  </header>
+
+  <section *ngIf="loading" class="loading">
+    <div class="spinner"></div>
+    <span>Loading Countries... Please wait</span>
+  </section>
+  <section *ngIf="error" class="loading error">
+    <span>{{ error }}</span>
+  </section>
+
+  <section class="grid" *ngIf="!loading && !error">
+    <a
+      class="card"
+      *ngFor="let c of filteredItems"
+      [routerLink]="['/country', encodeURIComponent(c.countryName)]"
+      [title]="'View details about ' + c.countryName"
+    >
+      <div class="flag-wrap">
+        <img
+          [src]="c.flagUrl"
+          alt="'Flag of ' + c.countryName"
+          loading="lazy"
+          decoding="async"
+        />
+      </div>
+      <div class="body">
+        <span class="country-name">{{ c.countryName }}</span>
+      </div>
+    </a>
+  </section>
+</div>
